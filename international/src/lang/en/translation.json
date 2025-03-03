@@ -1,0 +1,4 @@
+{
+    "helloWorld" :"Hello World!",
+    "intlDateTime": "{{val, datetime}}"
+}
